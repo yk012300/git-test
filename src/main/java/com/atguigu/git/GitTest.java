@@ -13,6 +13,5 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("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");
         System.out.println("use idea push ");
-        System.out.println("idea pull push ");
     }
 }
